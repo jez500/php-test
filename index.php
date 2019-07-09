@@ -20,7 +20,7 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="/images/bender.png" alt="" width="122" height="122" /></span>
+							<span class="avatar"><img src="/images/nibbler.png" alt="" width="122" height="122" /></span>
 							<h1>PHP TEST</h1>
 							<p><?php echo "PHP Test page"; ?></p>
 
